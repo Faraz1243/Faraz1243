@@ -10,6 +10,7 @@
   -
   -  Computer Science Student at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
   -  Interested in Full Stack Web Development
+  -  Doing a Marketing Internship at MediTechx
   -  Working on a Web Based Side Project [CodeWiring](https://codewiring.com/)
   -
   -
