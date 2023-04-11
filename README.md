@@ -1,6 +1,6 @@
 ## <div align="center">Hi Everyone,<a href = "https://faraz@codewiring.com/"> Faraz </a> here <img width="4%" height="4%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Front+End+Developer;Desktop+C%23+Developer;Python+Developer;and+much+more.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Flutter+Developer;Desktop+C%23+Developer;Front+End+Developer;and+much+more.)](https://git.io/typing-svg)
 
 
 
@@ -9,8 +9,8 @@
   -
   -
   -  Computer Science Student at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
-  -  Interested in Flutter Development
-  -  Working on a Web Based Side Project [CodeWiring](https://codewiring.com/)
+  -  Flutter Developer to be...
+  -  Desktop Developer ( WinForms / WinUI3)
   -
   -
 
