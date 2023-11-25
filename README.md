@@ -27,19 +27,27 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" title=".NET" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  title="CSS"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  title="JavaScript"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  title="Git"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  title="GitHub"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  title="GitLab"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="Flask" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
+  <img width="12" />  
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="PostmanAPI logo" title="PostmanAPI" />
+  <img width="12" />  
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" title="RabbitMQ" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" title="Dart" />
   <img width="12" />
@@ -50,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
