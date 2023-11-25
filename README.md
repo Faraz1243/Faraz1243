@@ -1,6 +1,6 @@
 ## <div align="center">Hi Everyone,<a href = "https://faraz@codewiring.com/"> Faraz </a> here <img width="4%" height="4%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Flutter+Developer;Desktop+C%23+Developer;Front+End+Developer;and+much+more.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Flutter+Developer;C%23+Desktop+Developer;Flask+Developer;and+much+much+more.)](https://git.io/typing-svg)
 
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, Express.js, and various databases including MongoDB and MySQL.
